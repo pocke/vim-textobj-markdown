@@ -7,9 +7,6 @@ endif
 
 
 
-
-
-
 call textobj#user#plugin('markdowncodeblock', {
 \   '-': {
 \     'select-i-function': 'textobj#markdown#i',
