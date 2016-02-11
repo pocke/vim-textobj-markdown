@@ -47,11 +47,7 @@ Usage
 =========
 
 
-`dic` removes code in a codeblock.
+- `dic` removes code in a codeblock.
+- `dac` removes code in a codeblock and removes codeblock itself.
 
-
-TODO: screen capture
-
-`dac` removes code in a codeblock and removes codeblock.
-
-TODO: screen capture
+![out](https://cloud.githubusercontent.com/assets/4361134/12978431/1a54551a-d114-11e5-8cc7-21c099586918.gif)
