@@ -51,3 +51,9 @@ Usage
 - `dac` removes code in a codeblock and removes codeblock itself.
 
 ![out](https://cloud.githubusercontent.com/assets/4361134/12978431/1a54551a-d114-11e5-8cc7-21c099586918.gif)
+
+
+Links
+==========
+
+- [Markdown 用 TextObject Vim プラグインを作った - pockestrap](http://pocke.hatenablog.com/entry/2016/02/12/083648)
