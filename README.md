@@ -53,7 +53,17 @@ Usage
 ![out](https://cloud.githubusercontent.com/assets/4361134/12978431/1a54551a-d114-11e5-8cc7-21c099586918.gif)
 
 
+
 Links
 ==========
 
 - [Markdown 用 TextObject Vim プラグインを作った - pockestrap](http://pocke.hatenablog.com/entry/2016/02/12/083648)
+
+
+
+License
+===========
+
+These codes are licensed under CC0.
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
