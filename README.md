@@ -58,6 +58,7 @@ Links
 ==========
 
 - [Markdown 用 TextObject Vim プラグインを作った - pockestrap](http://pocke.hatenablog.com/entry/2016/02/12/083648)
+- [pocke/vim-operator-markdown](https://github.com/pocke/vim-operator-markdown)
 
 
 
